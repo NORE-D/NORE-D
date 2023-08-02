@@ -1,16 +1,18 @@
-### Hi there 👋
+# ¡Hola, soy NORE! 👋
 
-<!--
-**NORE-D/NORE-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+Soy un apasionado desarrollador de software con un interés especial en [PHP,HTML,C++,BASH,MYSQL,PYTHON]. Siempre buscando aprender y mejorar mis habilidades en el mundo de la programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo [AUTOMATIZACION DE HERRAMIENTAS Y PAGINAS WEB].
+- 💬 Pregúntame sobre: La programacion.
+
+## Mis Habilidades
+
+- Lenguajes de Programación: [PHP,HTML,CSS,PYTHON,C++,BASH,MYSQL]
+- Sistemas Operativos: [Windows, Kali Linux, Parrot OS]
+- 
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
