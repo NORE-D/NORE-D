@@ -11,8 +11,3 @@ Soy un apasionado desarrollador de software con un interés especial en [PHP,HTM
 
 - Lenguajes de Programación: [PHP,HTML,CSS,PYTHON,C++,BASH,MYSQL]
 - Sistemas Operativos: [Windows, Kali Linux, Parrot OS]
-- 
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
